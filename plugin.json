@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0.0",
+  "name": "scientific-figure-generator",
+  "version": "1.0.0",
+  "description": "Publication-quality scientific figure generator for research papers.",
+  "author": "U235-beta",
+  "license": "MIT",
+  "keywords": [
+    "scientific-figures",
+    "publication-quality",
+    "matplotlib",
+    "journal-style",
+    "multi-panel",
+    "molecule-visualization",
+    "mechanism-diagram",
+    "quality-control",
+    "colorblind-safe"
+  ],
+  "skills": [
+    {
+      "name": "scientific-figure-generator",
+      "path": "SKILL.md",
+      "description": "Generate publication-quality figures for scientific research papers"
+    }
+  ],
+  "dependencies": {
+    "python": ">=3.9",
+    "packages": [
+      "matplotlib>=3.5",
+      "numpy>=1.21"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/U235-beta/scientific-figure-generator.git"
+  }
+}
